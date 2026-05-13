@@ -1,9 +1,8 @@
-import Hero from "./Sections/Hero";
-
 const Home = () => {
   return (
     <div>
-      <Hero />
+      <a href="">Add User</a>
+      <a href="">Show Users</a>
     </div>
   );
 };
